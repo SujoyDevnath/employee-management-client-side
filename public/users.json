@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "avishek",
+        "phone": "01800100234",
+        "email": "avishek@gmail.com",
+        "hobbies": "coding"
+    },
+    {
+        "id": "2",
+        "name": "avishek1",
+        "phone": "01800100245",
+        "email": "avishek@1gmail.com",
+        "hobbies": "coding"
+    }
+]
